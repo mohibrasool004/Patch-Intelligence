@@ -1,0 +1,19 @@
+# Configuration for Patch Intelligence
+
+arangodb:
+  host: "http://localhost"
+  port: 8529
+  username: "root"
+  password: "mohib"
+  db_name: "patch_intelligence_db"
+
+# Data Sources - update URLs as needed
+data_sources:
+  npm: "https://www.npmjs.com/package/<PACKAGE_NAME>"
+  maven: "https://search.maven.org/artifact/<GROUP_ID>/<ARTIFACT_ID>"
+  pypi: "https://pypi.org/project/<PACKAGE_NAME>/"
+  linux: "https://www.kernel.org/"
+  nuget: "https://www.nuget.org/packages/<PACKAGE_NAME>/"
+  
+# Other configuration parameters
+scrape_timeout: 10

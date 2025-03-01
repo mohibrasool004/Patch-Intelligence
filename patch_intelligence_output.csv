@@ -1,0 +1,6 @@
+Vendor,Product,Fixed Version,Reference KB,Vulnerabilities Fixed,NVD CPE
+npm,express,unknown,https://www.npmjs.com/package/express,,cpe:2.3:a:npm:express:*:*:*:*:*:*:*:*
+Maven,commons-lang3,unknown,https://search.maven.org/artifact/org.apache/commons-lang3,,cpe:2.3:a:maven:commons-lang3:*:*:*:*:*:*:*:*
+PyPi,requests,unknown,https://pypi.org/project/requests/,,cpe:2.3:a:pypi:requests:*:*:*:*:*:*:*:*
+Linux,Kernel,5.15.0,https://www.kernel.org/,CVE-2023-1001,cpe:2.3:a:linux:kernel:*:*:*:*:*:*:*:*
+NuGet,Newtonsoft.Json,unknown,https://www.nuget.org/packages/Newtonsoft.Json/,,cpe:2.3:a:nuget:newtonsoft.json:*:*:*:*:*:*:*:*
